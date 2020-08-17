@@ -23,3 +23,12 @@ C:\Users\NAM\Desktop\prac_C##\TEST_PE\obj\Debug\TEST_PE.pdb
 C:\Users\NAM\Desktop\prac_C##\TEST_PE\bin\Debug\TEST_PE.exe.config
 C:\Users\NAM\Desktop\prac_C##\TEST_PE\bin\Debug\TEST_PE.exe
 C:\Users\NAM\Desktop\prac_C##\TEST_PE\bin\Debug\TEST_PE.pdb
+C:\Users\NAM\Desktop\prac_C##-9.5of10\TEST_PE\bin\Debug\TEST_PE.exe.config
+C:\Users\NAM\Desktop\prac_C##-9.5of10\TEST_PE\bin\Debug\TEST_PE.exe
+C:\Users\NAM\Desktop\prac_C##-9.5of10\TEST_PE\bin\Debug\TEST_PE.pdb
+C:\Users\NAM\Desktop\prac_C##-9.5of10\TEST_PE\obj\Debug\TEST_PE.Department.resources
+C:\Users\NAM\Desktop\prac_C##-9.5of10\TEST_PE\obj\Debug\TEST_PE.Properties.Resources.resources
+C:\Users\NAM\Desktop\prac_C##-9.5of10\TEST_PE\obj\Debug\PE-SE130186.csproj.GenerateResource.cache
+C:\Users\NAM\Desktop\prac_C##-9.5of10\TEST_PE\obj\Debug\PE-SE130186.csproj.CoreCompileInputs.cache
+C:\Users\NAM\Desktop\prac_C##-9.5of10\TEST_PE\obj\Debug\TEST_PE.exe
+C:\Users\NAM\Desktop\prac_C##-9.5of10\TEST_PE\obj\Debug\TEST_PE.pdb
