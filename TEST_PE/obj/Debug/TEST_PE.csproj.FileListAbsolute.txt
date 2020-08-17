@@ -1,0 +1,21 @@
+\\Mac\Home\Documents\Duc On\PRN292\TEST_PE\TEST_PE\bin\Debug\TEST_PE.exe.config
+\\Mac\Home\Documents\Duc On\PRN292\TEST_PE\TEST_PE\bin\Debug\TEST_PE.exe
+\\Mac\Home\Documents\Duc On\PRN292\TEST_PE\TEST_PE\bin\Debug\TEST_PE.pdb
+\\Mac\Home\Documents\Duc On\PRN292\TEST_PE\TEST_PE\obj\Debug\TEST_PE.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Duc On\PRN292\TEST_PE\TEST_PE\obj\Debug\TEST_PE.Properties.Resources.resources
+\\Mac\Home\Documents\Duc On\PRN292\TEST_PE\TEST_PE\obj\Debug\TEST_PE.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Duc On\PRN292\TEST_PE\TEST_PE\obj\Debug\TEST_PE.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Duc On\PRN292\TEST_PE\TEST_PE\obj\Debug\TEST_PE.exe
+\\Mac\Home\Documents\Duc On\PRN292\TEST_PE\TEST_PE\obj\Debug\TEST_PE.pdb
+\\Mac\Home\Documents\Duc On\PRN292\TEST_PE\TEST_PE\obj\Debug\TEST_PE.Department.resources
+\\Mac\Home\Documents\Duc On\PRN292\TEST_PE\TEST_PE\obj\Debug\TEST_PE.Login.resources
+E:\TEST_PE\TEST_PE\bin\Debug\TEST_PE.exe.config
+E:\TEST_PE\TEST_PE\bin\Debug\TEST_PE.exe
+E:\TEST_PE\TEST_PE\bin\Debug\TEST_PE.pdb
+E:\TEST_PE\TEST_PE\obj\Debug\TEST_PE.csprojAssemblyReference.cache
+E:\TEST_PE\TEST_PE\obj\Debug\TEST_PE.Department.resources
+E:\TEST_PE\TEST_PE\obj\Debug\TEST_PE.Properties.Resources.resources
+E:\TEST_PE\TEST_PE\obj\Debug\TEST_PE.csproj.GenerateResource.cache
+E:\TEST_PE\TEST_PE\obj\Debug\TEST_PE.csproj.CoreCompileInputs.cache
+E:\TEST_PE\TEST_PE\obj\Debug\TEST_PE.exe
+E:\TEST_PE\TEST_PE\obj\Debug\TEST_PE.pdb
